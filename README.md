@@ -38,6 +38,6 @@ bash snipycam.sh
 ```
 ### Video Demo
 [![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
-#### For More Information Contact us on WHATSAPP <a href="+➒➋➌➌➍➍➏➌➋➋➌➒">𝓢𝓪𝓜𝔂 @ωнαтѕαρρ</a>
+#### For More Information Contact us :  <a href="+➒➋➌➌➍➍➏➌➋➋➌➒">𝓢𝓪𝓜𝔂 @ωнαтѕαρρ</a>
 <p>SnipyCam is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>Snipycam is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
