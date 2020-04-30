@@ -140,7 +140,7 @@ printf "\e[1;93m [!] Invalid tunnel option! try again\e[0m\n"
 sleep 1
 clear
 banner
-camphish
+snipycam
 else
 printf "\n-----Choose a template----\n"    
 printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Festival Wishing\e[0m\n"
@@ -210,8 +210,8 @@ printf "\e[1;92m[\e[0m*\e[1;92m] Direct link:\e[0m\e[1;77m %s\e[0m\n" $link
 payload_ngrok
 checkfound
 }
-
-camphish() {
+f
+snipycam() {
 if [[ -e sendlink ]]; then
 rm -rf sendlink
 fi
@@ -234,7 +234,7 @@ else
 printf "\e[1;93m [!] Invalid option!\e[0m\n"
 sleep 1
 clear
-camphish
+snipycam
 fi
 
 }
